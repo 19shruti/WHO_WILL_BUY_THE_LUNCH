@@ -36,7 +36,7 @@ randomname=arrayNames[randomposition];
 let ui=document.getElementById("out");
 let outp="";
 
-outp='<h1><strong> heyyyy !!!!     '+randomname+'  will buy the lunch today !</h1></strong>';
+outp='<h1><strong> heyyyy !!!!     '+randomname+'  will buy the lunch today 😍 !</h1></strong>';
 ui.innerHTML=outp;
 }
 

@@ -1,6 +1,6 @@
 
 .bi{
-background-image: url(images/bg.jpg);
+background-image: url(images/istockphoto-166044285-170667a.jpg);
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: cover;
@@ -18,4 +18,9 @@ background-size: cover;
 }
 .random{
 text-align: center;
+}
+.mymark{
+    padding-top: 220px;
+    padding-right: 40px;
+    float: right;
 }
