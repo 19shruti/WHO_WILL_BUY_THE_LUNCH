@@ -1,0 +1,21 @@
+
+.bi{
+background-image: url(images/bg.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+.intro{
+    text-align: center;
+}
+#inputName{
+ padding-left: 200px;
+ padding-right: 20px;
+}
+#int1{
+    padding-left: 220px;
+    padding-right: 40px;
+}
+.random{
+text-align: center;
+}
